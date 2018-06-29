@@ -1,0 +1,688 @@
+<html>
+  <head>
+    <meta content="text/html; charset=windows-1251" http-equiv="content-type">
+    <title>Методичні рекомендації з "Основ промислового виробництва".
+      О.З.Байтеряков, М.Л.Сажнєв</title>
+    <link rel="shortcut icon" href="favicon.ico">
+    <meta name="author" content="SDPsM">
+    <link rel="stylesheet" href="styles/index.css" type="text/css">
+    <link rel="stylesheet" href="styles/navigation.css" type="text/css">
+  </head>
+  <body>
+    <script language="Javascript"><!--
+function s(id){	document.getElementById("ht_menu_" + id).style.visibility = 'visible';}
+function h(id){	document.getElementById("ht_menu_" + id).style.visibility = 'hidden';}
+--></script>
+    <table class="full_size">
+      <tbody>
+        <tr>
+          <td style="width: 227px;" class="kubik_top"><tt><img longdesc="mbox.org.ua"
+                title="h1" alt="h1" src="img/h1.jpg" height="154" width="227"></tt><br>
+          </td>
+          <td style="margin-left: -3px;">
+            <table class="full_size">
+              <tbody>
+                <tr>
+                  <td style="margin-left: -92px;" class="logo"><img style="margin-left: -6px;"
+                      longdesc="mbox.org.ua" title="h2" alt="h2" src="img/h2.jpg"><br>
+                  </td>
+                </tr>
+                <tr style="background-color: #52a0ff;">
+                  <td style="width: 1313px;" class="navigation"><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td style="background: url(images/links_back.jpg) repeat-y;" align="center"
+            bgcolor="#eeeeff" valign="top">
+            <table cellpadding="0" cellspacing="0" height="100%" width="100%">
+              <tbody>
+                <tr>
+                  <td height="131px"><a href="http://www.ht.com.ua"></a><tt><img
+                        style="width: 226px; height: 130px;" longdesc="mbox.org.ua"
+                        title="h3" alt="h3" src="file:///C:/Users/Root/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%20%D0%BF%D0%BE%20%D0%9E%D0%9F%D0%9F/OPP_manual/img/h3.jpg"></tt>
+                  </td>
+                </tr>
+                <tr height="150px">
+                  <td class="left_links">
+                    <p class="header" style="background-color: #52a0ff; color: white; border-top-style: solid; border-bottom-width: thin; border-bottom-style: solid; border-top-width: thin; padding: 0px 20px 0px 0px; margin: 1px 5px 5px; width: 180px; height: 19px; text-align: center;"><b>Зміст</b></p>
+                    <div style="height: 180px;">
+                      <div style="height: 180px;">
+                        <div style="height: 180px;"> <a title="Вступ до методичних рекомендацій з Основ промслового виробництва"
+                            href="Methodical_paper_OPP.html">Вступ</a><br>
+                          <a title="Заняття 1" href="MOPP_p1.html">Заняття 1</a><br>
+                          <a title="Заняття 2" href="MOPP_p2.html">Заняття 2</a><br>
+                          <a title="Заняття 3" href="MOPP_p3.html">Заняття 3</a><br>
+                          <a title="Заняття 4" href="MOPP_p4.html">Заняття 4</a><br>
+                          <a title="Заняття 5" href="MOPP_p5.html">Заняття 5</a><br>
+                          <a title="Заняття 6" href="MOPP_p6.html">Заняття 6</a><br>
+                          <a title="Заняття 7" href="MOPP_p7.html">Заняття 7</a><br>
+                          <a title="ЕКЗАМЕНАЦІЙНІ ПИТАННЯ" href="MOPP_exam.html">Екзаменаційні
+                            питання</a> </div>
+                        <a title="ЕКЗАМЕНАЦІЙНІ ПИТАННЯ" href="file:///C:/Users/Root/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%B8%D0%BA%20%D0%BF%D0%BE%20%D0%9E%D0%9F%D0%9F/OPP_manual/MOPP_exam.html"></a>
+                      </div>
+                    </div>
+                  </td>
+                </tr>
+                <tr>
+                  <td class="left_links" height="150px"> <br>
+                  </td>
+                </tr>
+                <tr>
+                  <td align="center" height="100px">
+                    <div style="text-align:center;"> </div>
+                    <br>
+                  </td>
+                </tr>
+                <tr>
+                  <td><br>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+          <td valign="top">
+            <table height="100%" width="100%">
+              <tbody>
+                <tr>
+                  <td valign="top" width="*">
+                    <table style="width:100%">
+                      <tbody>
+                        <tr>
+                          <td class="main" style="height:120px;" valign="top"><img
+                              style="margin-top: -5px; height: 129px; margin-left: -9px;"
+                              longdesc="mbox.org.ua" title="h4" alt="h4" src="img/h4.jpg"
+                              height="123" width="862"><br>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="main1" valign="top">
+                            <p class="header" style="background-color: #52a0ff; color: white; border-top-style: solid; border-bottom-width: thin; border-bottom-style: solid; border-top-width: thin; padding: 0px; margin: 0px; width: 100%;"
+                              align="right"><b><!--Основи промислового виробницта, сільського господарства та транспорту-->&nbsp;</b></p>
+                            <div style="text-align: center;">
+                              <h3><strong>Заняття 1.</strong><strong> </strong></h3>
+                              <h3><strong>Тема: ЗАДАЧІ, СТРУКТУРА, ФОРМИ
+                                  ОРГАНІЗАЦІЇ ПРОМИСЛОВОГО ВИРОБНИЦТВА.
+                                  РОЗМІЩЕННЯ ВИРОБНИЦТВА.</strong></h3>
+                              <h3><strong>Питання до розгляду:</strong></h3>
+                            </div>
+                            <br>
+                            1.&nbsp;&nbsp;&nbsp; &nbsp;Структура промисловості,
+                            науково-технічний прогрес у промисловості.<br>
+                            2.&nbsp;&nbsp;&nbsp; &nbsp;Форми організації
+                            промисловості.<br>
+                            3.&nbsp;&nbsp;&nbsp; &nbsp;Розміщення промислового
+                            виробництва.<br>
+                            <br>
+                            <strong>ЧИ ЗНАЄТЕ ВИ ЩО:</strong><br>
+                            <br>
+                            &nbsp;*Закон попиту і пропозиції визначається як
+                            стан економіки, в якому за інших рівних умов, чим
+                            ціна на товар нижче, тим більше на нього
+                            платоспроможний попит (готовність купувати) і тим
+                            менше пропозиція (готовність продавати). Звичайно
+                            ціна встановлюється в точці рівноваги між
+                            пропозицією і попитом.&nbsp; Точка зіткнення попиту
+                            і пропозиції для кожного товару і країни унікальна.
+                            Позиціонування виробником нового товару на ринку
+                            дозволяє істотно на неї впливати завдяки
+                            рекламі.&nbsp; На закон так само впливає світове і
+                            внутрішнє законодавство і оподаткування.<br>
+                            &nbsp;*Всупереч думці про те що «попит породжує
+                            пропозицію», по суті з новим продуктом на ринку все
+                            по-іншому:&nbsp; товар і маркетинг є
+                            основоположниками попиту, і ніяк не навпаки. Тобто
+                            фільм «Аватар» і «iPhone» були не тим, що вимагав
+                            споживач, а навпаки, то що хотів продати виробник:
+                            зусиллями маркетингу створення нових продуктів і їх
+                            активне просування породили попит&nbsp; у споживача.<br>
+                            &nbsp;*Щоб обходити закон попиту і пропозиції в
+                            Євросоюзі у випадку перевиробництва масла воно
+                            зберігається в складах, на так званій «горі масла»
+                            (Butterberg). Тим самим відбувається штучна заборона
+                            пропозиції і ціна залишається стабільною.<br>
+                            &nbsp;*Рентабельність виробництва розраховується як
+                            відношення прибутку від реалізації до суми витрат на
+                            виробництво і реалізацію продукції. На ухвалення
+                            рішення про створення підприємства впливають терміни
+                            окупності інвестицій і ризики, що з цим пов'язані.<br>
+                            &nbsp;*Горизонтом окупності (часом, коли інвестиції
+                            почнуть приносити прибуток) крупних промислових
+                            підприємств в світі в середньому розглядають 10
+                            років. Для України у зв'язку з ризиками і
+                            нестабільністю не рекомендується планувати горизонт
+                            окупності більш ніж на 3 роки. Для середнього і
+                            дрібного бізнесу в 2011 році рекомендовані
+                            горизонти&nbsp; були скорочені до 1 року. Саме це
+                            разом з непрозорою та складною налоговою політикою
+                            (їх кількість на 2012 складала 135 (перше в світі
+                            місце за кількістю)) збільшує ціну на виробництво
+                            товарів та послуг в країні.<br>
+                            &nbsp;*Якщо проаналізувати структуру світової
+                            промисловості, то 19% складають товари і послуги із
+                            США,&nbsp; 15% з Китаю, 11% з Японії, 7% з
+                            Німеччини, 5% з Індії, 5% з Франції, 4% з
+                            Великобританії, 3% з Італії, 3% з Індонезії і 2% з
+                            Росії. <br>
+                            &nbsp;* За підсумками 2009 року ВВП України впав на
+                            14,1 %, що було одним з гірших показників динаміки
+                            ВВП в світі. За той же рік промислове виробництво
+                            впало на 25,0 % (сильніше падіння було тільки в
+                            Ботсвані і Естонії).<br>
+                            &nbsp;* Журнал Forbes склав список країн, з
+                            найгіршим економічним станом. Четверте місце в цьому
+                            списку дісталося Україні. Forbes підкреслює, що ця
+                            країна, багата мінеральними ресурсами і родючою
+                            землею, могла б бути лідером за економічними
+                            показниками в Європі, проте на ділі ВВП на душу
+                            населення не досягає навіть показників Сербії і
+                            Болгарії. <br>
+                            &nbsp;*За даними ООН сьогодні налічується приблизно
+                            64000 транснаціональних корпорацій і близько 866000
+                            залучених іноземних компаній (тобто підприємств, не
+                            менше 10% акцій/активів яких належить
+                            транснаціональній корпорації).<br>
+                            &nbsp;*У загальних об'ємах світового експорту
+                            промислових товарів переважає продукція
+                            промислово-розвинених країн (більше 70% в 2000 р. за
+                            даними МВФ і МБ), проте її частка знизилася в
+                            порівнянні з 1980 р. на 12 відсоткових пунктів (за
+                            тими ж даними в 1980 р. вона складала 82,3%).
+                            Динаміка експорту країн, що розвиваються, позитивна:
+                            якщо в&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1980 р. частка
+                            експорту їх промислової продукції складала 10,6%, то
+                            до 2000 р. вона практично досягла 27%, а зараз
+                            оцінюється в 30%. <br>
+                            <br>
+                            <strong>Питання для співбесіди:</strong><br>
+                            <br>
+                            1.&nbsp;&nbsp;&nbsp; Поняття і склад господарського
+                            комплексу країни.<br>
+                            2.&nbsp;&nbsp;&nbsp; Класифікація промисловості.<br>
+                            3.&nbsp;&nbsp;&nbsp; Поняття і види промислових
+                            підприємств.<br>
+                            4.&nbsp;&nbsp;&nbsp; Основні напрямки
+                            науково-технічної революції.<br>
+                            5.&nbsp;&nbsp;&nbsp; Дати визначення і
+                            характеристику концентрації виробництва.<br>
+                            6.&nbsp;&nbsp;&nbsp; Охарактеризувати комбінування
+                            виробництва.<br>
+                            7.&nbsp;&nbsp;&nbsp; Визначити види спеціалізації
+                            виробництва.<br>
+                            8.&nbsp;&nbsp;&nbsp; Дати характеристику
+                            кооперування виробництва.<br>
+                            <img style="width: 500px; height: 266px;" title="Промисловість"
+                              alt="Промисловість" src="img/MOPP1_0.jpg"><br>
+                            <strong><br>
+                              Завдання №1</strong><br>
+                            Скласти схему "Склад господарського комплексу".<br>
+                            <table border="1" width="100%">
+                              <tbody>
+                                <tr align="center">
+                                  <td colspan="16" rowspan="1">
+                                    <p class="MsoNormal"><b style="mso-bidi-font-weight:normal"><span
+                                          lang="UK">ГОСПОДАРСЬКИЙ<span style="mso-spacerun:yes">&nbsp;
+                                            </span>КОМПЛЕКС</span></b></p>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td colspan="8" rowspan="1" style="text-align: center;"><b
+                                      style="mso-bidi-font-weight:normal"><span
+                                        style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">МАТЕРІАЛЬНЕ <br>
+                                        ВИРОБНИЦТВО</span></b></td>
+                                  <td colspan="8" rowspan="1" style="text-align: center;"><b
+                                      style="mso-bidi-font-weight:normal"><span
+                                        style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">НЕВИРОБНИЧА<span style="mso-spacerun:yes">&nbsp;
+                                          </span>СФЕРА</span></b></td>
+                                </tr>
+                                <tr>
+                                  <td colspan="3" rowspan="1" style="text-align: center;"><span
+                                      style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK">Галузі, як</span><span style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK"><span style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">і</span> <br>
+                                      безпосередньо <br>
+                                      створюють <br>
+                                      матеріальні блага</span></td>
+                                  <td colspan="2" rowspan="1" style="text-align: center;"><span
+                                      style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK">Галузі, як</span><span style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK"><span style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">і</span> <br>
+                                      доставляють <br>
+                                      матеріальні блага <br>
+                                      до споживача</span></td>
+                                  <td colspan="3" rowspan="1" style="text-align: center;"><span
+                                      style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK">Галузі, як</span><span style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK"><span style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">і</span> <br>
+                                      пов’язані з продовженням <br>
+                                      процесу виробництва <br>
+                                      в сфері обертання</span></td>
+                                  <td colspan="4" rowspan="1" style="text-align: center;"><span
+                                      style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK">Галузі, що <br>
+                                      надають послуги</span></td>
+                                  <td colspan="4" rowspan="1" style="text-align: center;"><span
+                                      style="font-size:14.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                      lang="UK">Галузі <br>
+                                      соціального <br>
+                                      обслуговування</span></td>
+                                </tr>
+                                <tr>
+                                  <td style="text-align: center;"><br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <br>
+                            <div style="text-align: right;"><strong><span style="font-size:12.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                  lang="UK">Форма 1.<span style="mso-spacerun:yes">
+                                  </span>Склад господарського комплексу</span></strong></div>
+                            <strong>Завдання №2</strong><br>
+                            Познайомитись з принципами класифікації
+                            промисловості. <br>
+                            Систематизувати дані за допомогою структурної схеми.<br>
+                            <table border="1" width="100%">
+                              <tbody>
+                                <tr align="center">
+                                  <td colspan="7" rowspan="1"><b style="mso-bidi-font-weight:normal"><span
+                                        style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">ПРОМИСЛОВІСТЬ</span></b></td>
+                                </tr>
+                                <tr>
+                                  <td style="text-align: center;" colspan="2" rowspan="1">ЗА
+                                    ЗВ’ЯЗКОМ З ПРИРОДНИМИ РЕСУРСАМИ</td>
+                                  <td style="text-align: center;" colspan="5" rowspan="1">ЗА
+                                    ТЕХНІКО-ЕКОНОМІЧНИМИ ОСОБЛИВОСТЯМИ</td>
+                                </tr>
+                                <tr>
+                                  <td style="text-align: center;">Видобувна</td>
+                                  <td style="text-align: center;">Обробна</td>
+                                  <td style="text-align: center;">Енергоємні</td>
+                                  <td style="text-align: center;">Паливоємні</td>
+                                  <td style="text-align: center;">Матеріалоємні</td>
+                                  <td style="text-align: center;">Водоємні</td>
+                                  <td style="text-align: center;">Праціємний</td>
+                                </tr>
+                                <tr>
+                                  <td style="text-align: center;"><br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                  <td style="text-align: center;"><br>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <div style="text-align: right;"><span style="font-size:12.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                lang="UK"><strong>Форма 2.</strong><strong><span
+                                    style="mso-spacerun:yes"> </span></strong><strong>Класифікація
+                                  промисловості</strong></span><br>
+                              <span style="font-size:12.0pt;font-family:
+&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                lang="UK"></span></div>
+                            <br>
+                            <strong>Завдання №3</strong><br>
+                            Познайомитись з галузевою структурою промисловості.
+                            <br>
+                            Записати за якими показниками можна визначити
+                            пропорції&nbsp; (кількісні співвідношення) між
+                            галузями промисловості. <br>
+                            Дати визначення таким поняттям: <span style="font-weight: bold;">міжгалузевий
+                              комплекс, комплексна галузь, спеціалізована галузь</span>.
+                            Навести приклади.<br>
+                            <br>
+                            <strong>Завдання №4</strong><br>
+                            За допомогою малюнка охарактеризувати основні форми
+                            організації промислового виробництва: <br>
+                            <span style="font-weight: bold;">-концентрація, <br>
+                              -комбінування,<br>
+                              -спеціалізація, <br>
+                              -кооперування. </span><br>
+                            Пояснити їх на конкретних прикладах з наведених
+                            написів.<br>
+                            Заповнити форми 3-6. В формах обов'язково написати
+                            визначення, описати переваги коркретної форми
+                            організації.<br>
+                            <img style="width: 1200px; height: 929px;" title="organization of industry"
+                              alt="org_prom_" src="img/160236.jpg">
+                            <p style="text-align: right;"><span style="font-weight: bold;">Малюнок
+                                1. Форми організації виробництва.</span></p>
+                            <p><span style="font-weight: bold;"><br>
+                              </span></p>
+                            <p></p>
+                            <table border="1" width="100%">
+                              <tbody>
+                                <tr align="center">
+                                  <td><strong>КОНЦЕНТРАЦІЯ ВИРОБНИЦТВА</strong></td>
+                                </tr>
+                                <tr align="left">
+                                  <td>Визначення:<br>
+                                  </td>
+                                </tr>
+                                <tr align="left">
+                                  <td>Переваги:<br>
+                                  </td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <p style="text-align: right;"><strong>Форма 3.
+                                Концентрація виробництва.</strong></p>
+                            <p><br>
+                            </p>
+                            <p></p>
+                            <table border="1" width="100%">
+                              <tbody>
+                                <tr align="center">
+                                  <td colspan="3" rowspan="1"><b style="mso-bidi-font-weight:normal"><span
+                                        style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">СПЕЦІАЛІЗАЦІЯ ВИРОБНИЦТВА</span></b></td>
+                                </tr>
+                                <tr>
+                                  <td colspan="3" rowspan="1">Визначення:<br>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td colspan="3" rowspan="1">Переваги:<br>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="text-align: center;"><span style="font-weight: bold;">ПРЕДМЕТНА<br>
+                                    </span></td>
+                                  <td style="text-align: center;"><span style="font-weight: bold;">ПОДЕТАЛЬНА<br>
+                                    </span></td>
+                                  <td style="text-align: center;"><span style="font-weight: bold;">СТАДІЙНА<br>
+                                    </span></td>
+                                </tr>
+                                <tr>
+                                  <td>Визначення:<br>
+                                  </td>
+                                  <td>Визначення:</td>
+                                  <td>Визначення:</td>
+                                </tr>
+                                <tr>
+                                  <td>Переваги:<br>
+                                  </td>
+                                  <td>Переваги:</td>
+                                  <td>Переваги:</td>
+                                </tr>
+                                <tr>
+                                  <td>Приклади:<br>
+                                  </td>
+                                  <td>Приклади:</td>
+                                  <td>Приклади:</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <p style="text-align: right;"><span style="font-weight: bold;">Форма
+                                4. Спеціалізація виробництва</span></p>
+                            <p style="text-align: right;"><span style="font-weight: bold;"><br>
+                              </span></p>
+                            <p></p>
+                            <table border="1" width="100%">
+                              <tbody>
+                                <tr align="center">
+                                  <td colspan="2" rowspan="1"><b style="mso-bidi-font-weight:normal"><span
+                                        style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">КООПЕРУВАННЯ В ПРОМИСЛОВОСТІ</span></b></td>
+                                </tr>
+                                <tr>
+                                  <td style="height: 40px;" colspan="2" rowspan="1">Визначення:<br>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td colspan="2" rowspan="1">Переваги:<br>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="text-align: center;"><b style="mso-bidi-font-weight:normal"><span
+                                        style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                        lang="UK">ПОДЕТАЛЬНЕ</span></b></td>
+                                  <td>
+                                    <div style="text-align: center;"><b style="mso-bidi-font-weight:normal"><span
+                                          style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                          lang="UK">ТЕХНОЛОГІЧНЕ</span></b></div>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td>Визначення:<br>
+                                  </td>
+                                  <td>Визначення:</td>
+                                </tr>
+                                <tr>
+                                  <td>Переваги:<br>
+                                  </td>
+                                  <td>Переваги:</td>
+                                </tr>
+                                <tr>
+                                  <td>Приклади:<br>
+                                  </td>
+                                  <td>Приклади:</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <p style="text-align: right;"><strong>Форма 5.
+                                Кооперування в промисловості</strong></p>
+                            <p><br>
+                            </p>
+                            <p></p>
+                            <table border="1" width="100%">
+                              <tbody>
+                                <tr>
+                                  <td style="text-align: center;" colspan="3" rowspan="1"><span
+                                      style="font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><span
+                                        style="font-weight: bold;">Комбінування
+                                        виробництва</span></span></td>
+                                </tr>
+                                <tr>
+                                  <td colspan="3" rowspan="1">Визначення:<br>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td colspan="3" rowspan="1">Переваги:<br>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td style="text-align: center;"><span style="font-weight: bold;"><span
+                                        style="mso-bidi-font-weight:normal"><span
+                                          style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:
+&quot;Times New Roman&quot;;mso-ansi-language:UK;mso-fareast-language:RU;mso-bidi-language:AR-SA"
+                                          lang="UK">Послідовні стадії оборобки
+                                          сировини</span></span><br>
+                                    </span></td>
+                                  <td style="text-align: center;"><span style="font-weight: bold;">Комплексне
+                                      використання сировини<br>
+                                    </span></td>
+                                  <td style="text-align: center;"><span style="font-weight: bold;">Використання
+                                      відходів виробництва<br>
+                                    </span></td>
+                                </tr>
+                                <tr>
+                                  <td>Визначення:<br>
+                                  </td>
+                                  <td style="height: 20px;">Визначення:</td>
+                                  <td>Визначення:</td>
+                                </tr>
+                                <tr>
+                                  <td>Переваги:<br>
+                                  </td>
+                                  <td>Переваги:</td>
+                                  <td>Переваги:</td>
+                                </tr>
+                                <tr>
+                                  <td>Приклади:<br>
+                                  </td>
+                                  <td>Приклади:</td>
+                                  <td>Приклади:</td>
+                                </tr>
+                              </tbody>
+                            </table>
+                            <p style="text-align: right;"><strong>Форма 6.
+                                Комбінування виробництва</strong></p>
+                            <hr>
+                            <p><strong><a href="file:///C:/Users/Root/Desktop/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/?59">ЕКЗАМЕНАЦІЙНІ
+                                  ПИТАННЯ </a></strong></p>
+                            <hr><strong>СПИСОК ДЖЕРЕЛ</strong><br>
+                            <br>
+                            1.&nbsp; Куракина А.Ф. Основы промышленного и
+                            сельскохоз. произв-ва .&nbsp;
+                            М.,&nbsp;&nbsp;&nbsp;&nbsp; 1981.<br>
+                            2.&nbsp; Плоткин М. Л. Основы промышленного
+                            производства. М., 1977.<br>
+                            3.&nbsp; Хрущев А. Т. География промышленности СССР.
+                            М., 1990.<br>
+                            4.&nbsp; Экономика отраслей народного хозяйства /
+                            Под ред. А. С. Кима. Мн., 1987.<br>
+                            5. Анализ хоз. деятельности в промышлен. (под
+                            редакцие В.И. Стражева). Мн., 1997.&nbsp; <br>
+                            6. Назаренко Н. Г. Экономика сельского хозяйства.
+                            М., 1996.<br>
+                            7. Манулик А. В. Здравоохранение: вопросы теории и
+                            организации управления Учеб.-метод, пособие. Мн.,
+                            1994.<br>
+                            8. Щетинин В. П., Хроменков Н. А. Экономика
+                            образования. М., 1998. <br>
+                            9. Ярошевич В. П., Шкурин М. И. Общий курс
+                            транспорта: Учеб. пособие. Гомель, 1997<br>
+                            <br>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                  <td style="background: url(images/links_back2.jpg) repeat-y;width:185px"
+                    class="left_links" align="right" bgcolor="#eeeeff" valign="top">
+                    <br>
+                    <p class="header" style="background-color:#015466;color:white;border-top-style:solid;border-bottom-width:thin;border-bottom-style:solid;border-top-width:thin;padding:0px;margin:5;padding-right:20px"
+                      align="right"><b>Авторизация</b></p>
+                    <table cellpadding="0" cellspacing="0">
+                      <tbody>
+                        <tr>
+                          <td>
+                            <form method="post" action="/?l">
+                              <table class="header" cellpadding="0" cellspacing="2">
+                                <tbody>
+                                  <tr>
+                                    <td>логин</td>
+                                    <td><input name="l" style="width:100px" type="text"></td>
+                                  </tr>
+                                  <tr>
+                                    <td>пароль</td>
+                                    <td><input name="p" style="width:100px" type="password"></td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <p class="header" style="padding:0px;margin:2;" align="right"><input
+                                  value="Вход" style="width:50px" type="submit"></p>
+                              <p class="header" style="padding:0px;margin:2;" align="right"><a
+                                  class="link" href="/?r">Регистрация</a></p>
+                              <p class="header" style="padding:0px;margin:2;" align="right"><a
+                                  href="mbox.org.ua" class="link">Напомнить
+                                  пароль</a></p>
+                            </form>
+                          </td>
+                          <td width="20px"> <br>
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+          </td>
+        </tr>
+      </tbody>
+    </table>
+    <a style="display:none" href="http://www.argus-aqua.com">Аквариумы Одесса</a>
+    <script type="text/javascript">
+cnsd=document;cnst=escape(cnsd.title);
+cnst=cnst.replace(/\+/g,'%2B');cnsa=navigator.appName;
+cnsn=(cnsa.substring(0,2)=='Mi')?0:1;cnss=screen;cnspx=(cnsn==0)?cnss.colorDepth:cnss.pixelDepth;
+document.write('<img src="http://www.citymap.odessa.ua/cnstat/cnt-combined.php?i=865750&amp;e='+cnss.width+'.'+cnss.height+'&amp;d='+cnspx+'&amp;r='+escape(cnsd.referrer)+'&amp;p='+escape(cnsd.location)+'&amp;t='+cnst+'" width="1" height="1" border="0">');
+</script><noscript><img src="http://www.citymap.odessa.ua/cnstat/cnt-combined.php?i=865750"
+alt="" border="0" height="1" width="1"></noscript><!--(C) MBOX.ORG.UA, 2012-->
+  </body>
+</html>
+<!-- Statistika begin -->
